@@ -1,0 +1,25 @@
+.background{
+  Background: #EADDCA;
+  color: black;
+}
+
+.navbar{
+  padding: 1rem;
+  background-color: #B6D0E2;
+}
+.nav{
+  background-color: #B6D0E2;
+}
+.jumbotron{
+  background-color: #B9BD86;
+}
+
+.footer{
+  padding: 3rem;
+  background: #B6D0E2;
+}
+
+.btn-primary{
+  background-color: #808000;
+  color: white;
+}
